@@ -1,2 +1,2 @@
 # Repo-ListadeCompras
-https://guillebonutto.github.io/RepoListadeCompras/
+https://guillebonutto.github.io/Repo-ListadeCompras/
